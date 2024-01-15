@@ -1,3 +1,5 @@
+
+![Screenshot 2024-01-15 210428](https://github.com/vikramsingh9219251196/Pokemon-Explorer/assets/145076898/547417e7-9edf-4eb8-9ba4-08cd7e855e4b)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
